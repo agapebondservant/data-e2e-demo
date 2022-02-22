@@ -7,8 +7,8 @@ stringData:
   bucket: pgbackups
   region: us-east-2
   endpoint: minio.tanzudata.ml
-  key: 8zmApXWbQnQzI28BcaZB
-  keySecret: Irq9Z6eSsJeC9Qmrm6SFbzby8UBQLlhPWKRX6uWY
+  key: UP2l5Re11Ax3rbOe0mjF
+  keySecret: bc3U6mpfYe1ZDL0Echzv2QMpmXHeoWtItlYNt0tn
   verifyTLS: "false"
   uriStyle: "path"
 
